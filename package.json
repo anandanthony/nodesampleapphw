@@ -28,6 +28,6 @@
     "soap": "0.23.0",
     "twilio": "^3.10.1",
     "xml2js": "^0.4.19",
-    "intercom-client": "^2.10.2",
+    "intercom-client": "^2.10.2"
   }
 }
